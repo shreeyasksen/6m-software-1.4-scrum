@@ -6,7 +6,7 @@
     - In the respective child classes, call `super()` with it's type.
 */
 
-// Task: Add code here
+// Task: Add code here answer:
 class BaseSignal{
     constructor(type) {
         if (this.constructor===BaseSignal) {
