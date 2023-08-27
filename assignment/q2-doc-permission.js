@@ -72,7 +72,7 @@ class Permission{
     }
 }
 
-// Add code here
+// Add code here Answer:
 class Document extends Permission{
 #content;
 constructor(role,operation,content){
